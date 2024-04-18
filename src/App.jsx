@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    {/* dispaly your post here */}
+    {/* display your post here */}
       <div className="card">
         <h2>{/* display the post title here */}</h2>
         <p>{/* display the post body here */}</p>
